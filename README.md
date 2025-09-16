@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="file:///C:/Users/jpgr/Downloads/Blue%20Modern%20Corporate%20Staff%20Profile%20LinkedIn%20Banner.png" alt="Banner do Perfil">
+  <img src="[file:///C:/Users/jpgr/Downloads/Blue%20Modern%20Corporate%20Staff%20Profile%20LinkedIn%20Banner.png](https://github.com/Joaodev0-arch/Joaaodev0-arch/blob/main/Blue%20Modern%20Corporate%20Staff%20Profile%20LinkedIn%20Banner.png?raw=true)" alt="Banner do Perfil">
 </p>
 
 <h1 align="center">Hello, I am João Gabriel 👋</h1>
